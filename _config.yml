@@ -18,16 +18,43 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: CMPS 3360 Data Vsiualization
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Data Visualization - Spring 2025
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  Syllabus: "syllabus"
+  Schedule and Assignments: "schedule"
+  Links & Resources: "resources"
+
+# collections:
+#   projects:
+#     output: true
+#   labs:
+#     output: true
+#   notebooks:
+#     output: true
+#   lectures:
+#     output: true
+
+# --- Background colour/image options --- #
+
+# Personalize the colors in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#2e5cb8"
+navbar-text-col: "#FFFFFF"
+navbar-children-col: "#FFFFFF"
+page-col: "#FFFFFF"
+link-col: "#71C5E8"
+hover-col: "#0085A1"
+footer-col: "#2e5cb8"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
 
 # Build settings
 theme: minima
@@ -39,6 +66,47 @@ plugins:
 # Any item listed under the `exclude:` key here will be automatically added to
 # the internal "default list".
 #
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Rebecca Faust
+
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+#social-network-links:
+#  rss: true
+#  email: "someone@example.com"
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  youtube: user/deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+
+# Select which share links to show in posts
+#share-links-active:
+#  twitter: true
+#  facebook: true
+#  linkedin: true
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "rfaust.github.io/cmps3360/"  # eg. "deanattali.com/beautiful-jekyll"
+
+
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
