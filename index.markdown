@@ -12,7 +12,7 @@ published: true
 
 * **Instructor:** Dr. Rebecca Faust (rfaust1 at tulane.edu)
 * **Lectures Times:** MWF 10:00 AM - 10:50 AM
-* **Room:** Stanley Thomas 302
+* **Room:** Boggs 243
 * **Office:** Paul Hall 306 (New Building next to ST)
 * **Office Hours:** TBD, and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3360 in the subject if you are an undergraduate student or CMPS 6360 if you are a graduate student.
 * **Webpage:** [https://rjfaust.github.io/cmps3360/](https://rjfaust.github.io/cmps3360/)

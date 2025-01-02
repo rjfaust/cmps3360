@@ -104,7 +104,7 @@ author:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "rfaust.github.io/cmps3360/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "rjfaust.github.io/cmps3360/"  # eg. "deanattali.com/beautiful-jekyll"
 
 
 # Excluded items can be processed by explicitly listing the directories or
