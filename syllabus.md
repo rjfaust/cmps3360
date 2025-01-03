@@ -324,7 +324,7 @@ Finally, no late work will be accepted for the graduate project. Graduate studen
 
 See the [Schedule Page](./schedule.md) for the schedule and assignments.
 
-This is an upper division computer science course, *it is hard*, there will be a lot of work. You will sometimes have multiple assignments at a time and be responsible for managing the deadlines. Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).  
+This is an upper division computer science course, there will be a lot of work. Expect to spend 4-6 hours per week **outside of class** on this course ([Tulane policy is 1-2 hours per hour in class](https://catalog.tulane.edu/)).  
 
 If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
 
