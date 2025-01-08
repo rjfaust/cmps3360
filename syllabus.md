@@ -21,7 +21,7 @@ Prerequisites: CMPS 1600 or good programming skills (we will primarily use JavaS
 * **Office:** Paul Hall 306
 * **Office Hours:** TBD
 * **Webpage:** [https://rjfaust.github.io/cmps3360/](https://rjfaust.github.io/cmps3360/)
-* **Observable:**
+* **Observable:** [https://observablehq.com/@cmps-3360-6360](https://observablehq.com/@cmps-3360-6360)
 
 
 The instructor and TAs have office hours and are available by appointment.  Please reach out to us directly to setup extra time if you need more support during the semester. If you need help please check the [discussion board on Canvas!](https://tulane.instructure.com/). We check it regularly to answer common questions on projects and homeworks.  The solution to your question might already be there!
@@ -165,7 +165,7 @@ This course will consist of six distinct grading areas for undergrads and seven 
                 <p>15%</p>
             </td>
             <td style="width: 50%;" width="50%">
-                <p>15%</p>
+                <p>10%</p>
             </td>
         </tr>
         <tr>
@@ -231,7 +231,7 @@ This course will consist of six distinct grading areas for undergrads and seven 
                 <p> - </p>
             </td>
             <td style="width: 50%;" width="50%">
-                <p>25%</p>
+                <p>30%</p>
             </td>
         </tr>
     </tbody>
@@ -240,20 +240,23 @@ This course will consist of six distinct grading areas for undergrads and seven 
 
 ### In Class Activites, Participation and Attendence
 
-At least once per week we will have a group, in-class activity. Students will be split into groups to work on the activity for 15-20 minutes, and share with the class for another 5-10, depending on the activity. Groups will generally brainstorm and record their in-class responses to the activites in a Google Doc in the course drive. After class, students will be required to submit their final responses **individually** on Canvas. These activities will consist of 15% of the final grade and will largely be graded for completeness, provided that students made an effort in their responses. 
+At least once per week we will have a group, in-class activity. Students will be split into groups to work on the activity for 15-20 minutes, and share with the class for another 5-10, depending on the activity. Groups will generally brainstorm and record their in-class responses to the activites in a Google Doc in the course drive. After class, students will be required to submit their final responses **individually** on Canvas. These activities will largely be graded for completeness, provided that students made an effort in their responses. 
 
 Additionally, attendence will be recorded through TopHat. It will be taken at the start of class and will close after approximately 10 minutes. Students who attend class and participate will receive credit for the class. Attendance alone does not guarantee credit for a class. Students who are disruptive, late, unwilling to participate, and/or distracted by their devices may not receive credit for the class. Students will be allowed 3 un-excused absences, no questions asked. Beyond that, absences will only be excused for exceptional circumstances, with appropriate documentation. 
 
-### Labs and Pre-Lab Questions
+### Quizzes
+Each week students will be given a short quiz to review the weeks material, ahead of the lab session on Friday. These quizzes must be completed by Thursday, 11:59pm each week. The material for these quizzes includes the weeks lecture, as well as the lab for that week. This means that students should read the labs prior to completing the quiz. 
 
-Every Friday in class will be interactive lab time. **Before Friday** you will be required to answer a few short questions in the form of a Canvas Quiz. In class you will have the opportunity to work on the Labs with the instructor and TAs. On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth 10 points each and graded based the rubric in Canvas.
+### Labs 
+
+Every Friday in class will be interactive lab time. In class you will have the opportunity to work on the Labs with the instructor and TAs. On these days it will be important to bring a laptop to class to participate in the work.  Labs will be worth 10 points each and graded based the rubric in Canvas.
 
 Throughout the semester you will complete approximately 12 labs.  These labs will consist of both written and programming questions. However, the best way to learn is through hands-on practice so the bulk of labs will involve implementing visualizations. Posting solutions publicly online without the staff’s express consent is a direct violation of our academic integrity policy. **Posting solutions publicly online without the staff's express consent is a direct violation of our academic integrity policy. Late assignments will not be accepted.**
  
 
 ### Exams
 
-There will be two exams, one midterm in week 9 and a final exam.  Both exams will be written, closed book, and in class. You will be allowed one sheet, front and back of hand-written notes or printed notes, typed by yourself. Printouts of the slides, the textbook or any other resource written by someone else will not be permitted. You will be required to turn in this cheat sheet **with** the actual exam for credit. 
+There will be two exams, one midterm in week 9 (03/14) and a final exam (05/04).  Both exams will be written, closed book, and in class. You will be allowed one sheet, front and back of hand-written notes or printed notes, typed by yourself. Printouts of the slides, the textbook or any other resource written by someone else will not be permitted. You will be required to turn in this cheat sheet **with** the actual exam for credit. 
 
 
 ### Final Graduate Project

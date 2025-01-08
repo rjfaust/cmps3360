@@ -11,7 +11,7 @@ published: true
 * The schedule will be posted below, updated weekly. While we make every effort to keep these tables up to date, if there is ever a conflict on due date, the assignment due date in [Canvas](https://tulane.instructure.com/) supersedes anything posted here.**
 * All Demo Notebooks can be [found here on Observable](https://observablehq.com/collection/@cmps-3360-6360/demos).
 * All slides including the pre-class announcements can be found [(here on Google Drive!)](https://drive.google.com/drive/folders/1N4SKjUN6Vt4zdAsWwVNYE5hF_t6DfwOt?usp=drive_link)
-* All readings cand be found [(here on Google Drive!)](https://drive.google.com/drive/folders/1mF7yJwxSFBjVysgZyt0cgbUwnZKCOMN2?usp=drive_link)
+* All readings can be found [(here on Google Drive!)](https://drive.google.com/drive/folders/1mF7yJwxSFBjVysgZyt0cgbUwnZKCOMN2?usp=drive_link)
 
 
 <iframe style="width: 100%; height: 1000px; border: none" src="https://docs.google.com/spreadsheets/d/1u-4s7Msj2rvR4X1UozqlPVed_RBngqw1RaJRtfnh_1s/edit?usp=sharing"></iframe>
