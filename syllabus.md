@@ -261,7 +261,7 @@ There will be two exams, one midterm in week 9 (03/14) and a final exam (05/04).
 
 ### Final Graduate Project
 
-Graduate students will complete a visualization project using the concepts outlined in this course. Projects must be pitched and approved by the instructor by 5th week of the semester. Projects must be significant in scope to receive approval. Projects can come in one of two flavors: (1) Find and implement a technique from an IEEE VIS or EuroVIS paper from the past 5 years or (2) Design and develop an interactive visualization tool for data in your field of expertise (for non-CS majors only). More information on the project can be found on the Project page of the course website. 
+Graduate students will complete a visualization project using the concepts outlined in this course. Projects must be pitched and approved by the instructor by 5th week of the semester. Projects must be significant in scope to receive approval. Projects can come in one of two flavors: (1) Find and implement a technique from an IEEE VIS or EuroVIS paper from the past 5 years or (2) Design and develop an interactive visualization tool for data in your field of expertise (for non-CS majors only). More information on the project can be found on the [Project page](https://rjfaust.github.io/cmps3360/project) of the course website. 
 
 
 ### Final Grade Policy
