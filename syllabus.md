@@ -162,10 +162,10 @@ This course will consist of six distinct grading areas for undergrads and seven 
                 <p>In-Class Assignments</p>
             </td>
             <td style="width: 49%;" width="49%">
-                <p>15%</p>
+                <p>10%</p>
             </td>
             <td style="width: 50%;" width="50%">
-                <p>10%</p>
+                <p>8%</p>
             </td>
         </tr>
         <tr>
@@ -195,10 +195,10 @@ This course will consist of six distinct grading areas for undergrads and seven 
                 <p>Quizzes</p>
             </td>
             <td style="width: 49%;" width="49%">
-                <p>5%</p>
+                <p>10%</p>
             </td>
             <td style="width: 50%;" width="50%">
-                <p>5%</p>
+                <p>8%</p>
             </td>
         </tr>
         <tr>
@@ -209,7 +209,7 @@ This course will consist of six distinct grading areas for undergrads and seven 
                 <p>15%</p>
             </td>
             <td style="width: 50%;" width="50%">
-                <p>10%</p>
+                <p>12%</p>
             </td>
         </tr>
         <tr>
@@ -220,7 +220,7 @@ This course will consist of six distinct grading areas for undergrads and seven 
                 <p>20%</p>
             </td>
             <td style="width: 50%;" width="50%">
-                <p>15%</p>
+                <p>16%</p>
             </td>
         </tr>
         <tr>
@@ -231,7 +231,7 @@ This course will consist of six distinct grading areas for undergrads and seven 
                 <p> - </p>
             </td>
             <td style="width: 50%;" width="50%">
-                <p>30%</p>
+                <p>25%</p>
             </td>
         </tr>
     </tbody>
@@ -242,7 +242,7 @@ This course will consist of six distinct grading areas for undergrads and seven 
 
 At least once per week we will have a group, in-class activity. Students will be split into groups to work on the activity for 15-20 minutes, and share with the class for another 5-10, depending on the activity. Groups will generally brainstorm and record their in-class responses to the activites in a Google Doc in the course drive. After class, students will be required to submit their final responses **individually** on Canvas. These activities will largely be graded for completeness, provided that students made an effort in their responses. 
 
-Additionally, attendence will be recorded through TopHat. It will be taken at the start of class and will close after approximately 10 minutes. Students who attend class and participate will receive credit for the class. Attendance alone does not guarantee credit for a class. Students who are disruptive, late, unwilling to participate, and/or distracted by their devices may not receive credit for the class. Students will be allowed 3 un-excused absences, no questions asked. Beyond that, absences will only be excused for exceptional circumstances, with appropriate documentation. 
+Additionally, attendence will be recorded through TopHat. It will be taken at the start of class and will close after approximately 10 minutes. Students who attend class and participate will receive credit for the class. Attendance alone does not guarantee credit for a class. Students who are disruptive, late, unwilling to participate, and/or distracted by their devices may not receive credit for the class. Students will be allowed 3 unexcused absences, no questions asked. Beyond that, absences will only be excused for exceptional circumstances, with appropriate documentation. 
 
 ### Quizzes
 Each week students will be given a short quiz to review the weeks material, ahead of the lab session on Friday. These quizzes must be completed by Thursday, 11:59pm each week. The material for these quizzes includes the weeks lecture, as well as the lab for that week. This means that students should read the labs prior to completing the quiz. 
@@ -261,7 +261,7 @@ There will be two exams, one midterm in week 9 (03/14) and a final exam (05/04).
 
 ### Final Graduate Project
 
-Graduate students will complete a visualization project using the concepts outlined in this course. Projects must be pitched and approved by the instructor by 5th week of the semester. Projects must be significant in scope to receive approval. Projects can come in one of two flavors: (1) Find and implement a technique from an IEEE VIS or EuroVIS paper from the past 5 years or (2) Design and develop an interactive visualization tool for data in your field of expertise. More information on the project can be found on the Project page of the course website. 
+Graduate students will complete a visualization project using the concepts outlined in this course. Projects must be pitched and approved by the instructor by 5th week of the semester. Projects must be significant in scope to receive approval. Projects can come in one of two flavors: (1) Find and implement a technique from an IEEE VIS or EuroVIS paper from the past 5 years or (2) Design and develop an interactive visualization tool for data in your field of expertise (for non-CS majors only). More information on the project can be found on the Project page of the course website. 
 
 
 ### Final Grade Policy
@@ -367,7 +367,7 @@ Tulane University is committed to offering classes that are accessible. If you a
 
 The Code of Academic Conduct applies to all students, full-time and part-time, in Tulane University. Tulane University expects and requires behavior compatible with its high standards of scholarship. By accepting admission to the university, a student accepts its regulations (i.e., Code of Academic Conduct and Code of Student Conduct) and acknowledges the right of the university to take disciplinary action, including suspension or expulsion, for conduct judged unsatisfactory or disruptive.
 
-While discussion between peers is encouraged, unless otherwise indicated, students must submit their own work. Studetns may **not** read or copy a classmates solution or copy solutions from the web - this includes AI generated solutions. **We will be running checks on the code turned in for plagiarism.  If plagiarism is detected the minimum penalty is a 0 on the assignment and being reported, however, you may automatically fail this course at the discretion of the instructor or Honor Board.**
+While discussion between peers is encouraged, unless otherwise indicated, students must submit their own work. Students may **not** read or copy a classmates solution or copy solutions from the web - this includes AI generated solutions. **We will be running checks on the code turned in for plagiarism.  If plagiarism is detected the minimum penalty is a 0 on the assignment and being reported, however, you may automatically fail this course at the discretion of the instructor or Honor Board.**
 
 For more information about the honor board process and the code of academic conduct please see the [NTC Academic Integrity Website](https://college.tulane.edu/academics/academic-integrity).
 
