@@ -14,7 +14,7 @@ published: true
 * **Lectures Times:** MWF 10:00 AM - 10:50 AM
 * **Room:** Boggs 243
 * **Office:** Paul Hall 306 (New Building next to ST)
-* **Office Hours:** TBD, and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3360 in the subject if you are an undergraduate student or CMPS 6360 if you are a graduate student.
+* **Office Hours:** Monday 1-2pm, Tuesday 10:30-11:30am and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3360 in the subject if you are an undergraduate student or CMPS 6360 if you are a graduate student.
 * **Webpage:** [https://rjfaust.github.io/cmps3360/](https://rjfaust.github.io/cmps3360/)
 * **GitHub:** [https://github.com/rjfaust/cmps3360](https://github.com/rjfaust/cmps3360)
 
@@ -23,4 +23,4 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * ### Teaching Assistants
 * **Graduate Assistant** Keith Mitchell 
-  * **Office Hours** TBD
+  * **Office Hours** Thursday & Friday, 2:30-3:30 and by appointment, Stanley Thomas 316

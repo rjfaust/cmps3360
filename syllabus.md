@@ -19,7 +19,7 @@ Prerequisites: CMPS 1600 or good programming skills (we will primarily use JavaS
 * **Lecture Times:** MWF 10:00 - 10:50
 * **Room:** Boggs 243
 * **Office:** Paul Hall 306
-* **Office Hours:** TBD
+* **Office Hours:** Monday 1-2pm, Tuesday 10:30-11:30am, by appointment. 
 * **Webpage:** [https://rjfaust.github.io/cmps3360/](https://rjfaust.github.io/cmps3360/)
 * **Observable:** [https://observablehq.com/@cmps-3360-6360](https://observablehq.com/@cmps-3360-6360)
 
@@ -29,7 +29,7 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 * ### Teaching Assistants
 * **Graduate Assistant** Keith Mitchell 
-  * **Office Hours** TBD
+  * **Office Hours** Thursday & Friday, 2:30-3:30 and by appointment, Stanley Thomas 316
 
 
 
