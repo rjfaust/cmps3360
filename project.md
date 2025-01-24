@@ -4,7 +4,7 @@ Due Dates:
 -  Pitch: February 14, 2024
 -  Pitch write-up: February 17, 2024, 11:59pm
 -  Update: March 21, 2024, 11:59pm
--  Presentations: April 28 & 30, 2024
+-  Presentations: April 28 & 30, 2024, slides due by 8am
 -  Final Report: May 7, 11:59pm
 
  
@@ -46,7 +46,7 @@ I recommend structuring your update similar to your final report so that you can
  
 ### Project Presentation (30%)
 
-In week 16, you will present your projects to the class. I have set aside two class periods for this but we may not need to use both of them. Your presentation will be 10 minutes long with an additional 2 minutes for questions from the class. Your presentation should use slides, which you will submit with the final project submission. Where appropriate, your presentation should include a demo (either live or per-recorded) of your project. At a minimum, your slides should contain images of your final project.
+In week 16, you will present your projects to the class. I have set aside two class periods for this but we may not need to use both of them. Your presentation will be 8 minutes long with an additional 1 minute for questions from the class. Your presentation should use slides, which you will submit before your presentation, by 8am the morning of your presentation. Where appropriate, your presentation should include a demo (either live or per-recorded) of your project. At a minimum, your slides should contain images of your final project.
 
  
 
