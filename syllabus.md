@@ -28,7 +28,7 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 
 * ### Teaching Assistants
-* **Graduate Assistant** Keith Mitchell 
+* **Graduate Assistant** Keith Mitchell (kmitchell2 at tulane.edu)
   * **Office Hours** Thursday & Friday, 2:30-3:30 and by appointment, Stanley Thomas 316
 
 
