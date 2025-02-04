@@ -1,11 +1,11 @@
 # Graduate Project
 
 Due Dates:
--  Pitch: February 14, 2024
--  Pitch write-up: February 17, 2024, 11:59pm
--  Update: March 21, 2024, 11:59pm
--  Presentations: April 28 & 30, 2024, slides due by 8am
--  Final Report: May 7, 11:59pm
+-  Pitch: February 14, 2025
+-  Pitch write-up: February 17, 2025, 11:59pm
+-  Update: March 21, 2025, 11:59pm
+-  Presentations: April 28 & 30, 2025, slides due by 8am
+-  Final Report: May 7, 2025 11:59pm
 
  
 ## Project Description
@@ -31,9 +31,9 @@ To help assess the scope, it may be useful to enumerate the tasks needed to addr
 
 ### Project Pitches (5%)
 
-Projects must be pitched and approved by the end of week 5. You must schedule a time with me outside of class to discuss your project idea. To help demonstrate the scope of your project, I recommend coming prepared with a description of the requirements for success in your project (e.g. the necessary components that need to be designed and/or implemented, what needs to be done to test/evaluate it, etc.). I will give feedback on the viability of your plans, especially about whether you've picked the right scope (not too big, not too small). Projects must be significant in scope to receive approval. You must meet with me and get your project approved by February 20.
+Projects must be pitched and approved by the end of week 5. You must schedule a time with me outside of class to discuss your project idea. To help demonstrate the scope of your project, I recommend coming prepared with a description of the requirements for success in your project (e.g. the necessary components that need to be designed and/or implemented, what needs to be done to test/evaluate it, etc.). I will give feedback on the viability of your plans, especially about whether you've picked the right scope (not too big, not too small). Projects must be significant in scope to receive approval. You must meet with me and get your project approved by February 14.
 
-Following this meeting (and project approval), you will submit a description of your approved project, the requirements for success, and a tentative timeline for carrying out those requirements. This description should be about 1 page in length (and no more than 2) and must be submitted on Canvas by 11:59pm on February 23.
+Following this meeting (and project approval), you will submit a description of your approved project, the requirements for success, and a tentative timeline for carrying out those requirements. This description should be about 1 page in length (and no more than 2) and must be submitted on Canvas by 11:59pm on February 17.
 
  
 ### Project Update (15%)
