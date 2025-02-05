@@ -75,7 +75,7 @@ This course will roughly be broken into three distinct aspects of visualization:
 
 
 
-The mechanics of visualization include the low-level tools needed to implement interactive visualizations. In this course, you will learn how to build web-based interactive visualizations using some of the most popular visualization libraries and tools. You will primarily learn to use HTML5, Javascript, and D3 but will be introduced to additional tools including Tableau, Vega-lite, and Observable,
+The mechanics of visualization include the low-level tools needed to implement interactive visualizations. In this course, you will learn how to build web-based interactive visualizations using some of the most popular visualization libraries and tools. You will primarily learn to use HTML5, Javascript, and D3.
 
 
 
@@ -242,6 +242,8 @@ This course will consist of six distinct grading areas for undergrads and seven 
 
 At least once per week we will have a group, in-class activity. Students will be split into groups to work on the activity for 15-20 minutes, and share with the class for another 5-10, depending on the activity. Groups will generally brainstorm and record their in-class responses to the activites in a Google Doc in the course drive. After class, students will be required to submit their final responses **individually** on Canvas. These activities will largely be graded for completeness, provided that students made an effort in their responses. 
 
+2/5/25 Update: Students must be present in class to receive full credit for in-class activities. However, students absent from class who still complete the activities within the submission window and whose submissions demonstrate sufficient engagement with the content, can receive credit with a 15% penalty. This penalty is applied in addition to any late penalties. 
+
 Additionally, attendence will be recorded through TopHat. It will be taken at the start of class and will close after approximately 10 minutes. Students who attend class and participate will receive credit for the class. Attendance alone does not guarantee credit for a class. Students who are disruptive, late, unwilling to participate, and/or distracted by their devices may not receive credit for the class. Students will be allowed 3 unexcused absences, no questions asked. Beyond that, absences will only be excused for exceptional circumstances, with appropriate documentation. 
 
 ### Quizzes
@@ -281,7 +283,8 @@ F < 60%
 ## Policies Related to Turning in Work
 
 * All work will be turned in on [Canvas](https://tulane.instructure.com/).  All work will either be distributed via [Canvas](https://tulane.instructure.com/) or in the case of Labs and examples, via the [CMPS 3360 Observable]().  
-* All work will be due **11:59pm the day assigned**, unless otherwise noted.  
+* All work will be due **11:59pm the day assigned**, unless otherwise noted.
+* Update 2/5: Labs will be completed on Observable but submitted through Canvas. Students must give Observable notebooks the proper permissions for the instructor and TAs to view them.  Labs that are submitted within the submission window but lack the necessary permissions for the instructors and TAs to view them will initially receive a zero. Once grades are released, students have two days to correct the permissions and notify the instructors/TAs to request a re-grade. After two days, the zero will become permanent. 
 
  
 ### Late Work Policy
