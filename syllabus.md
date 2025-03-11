@@ -220,7 +220,7 @@ This course will consist of six distinct grading areas for undergrads and seven 
                 <p>20%</p>
             </td>
             <td style="width: 50%;" width="50%">
-                <p>16%</p>
+                <p>17%</p>
             </td>
         </tr>
         <tr>
